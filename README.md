@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Gvr GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Gvr&show_icons=true&theme=radical)
+
 <!--
 **Gabriel-Gvr/Gabriel-Gvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
