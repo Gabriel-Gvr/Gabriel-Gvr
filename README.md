@@ -1,4 +1,4 @@
-### Oi, eu sou o Gabriel! Estudande de Ciência da Computação apaixonado por tecnologia e resolução de problemas. 👋
+### Oi, eu sou o Gabriel! Estudante de Ciência da Computação apaixonado por tecnologia e resolução de problemas. 👋
 
 ![Gvr GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Gvr&show_icons=true&theme=radical)
 
