@@ -2,7 +2,7 @@
 
 ![Gvr GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Gvr&show_icons=true&theme=radical)
 
-### Tecnologias que uso no meu dia!
+### Tecnologias que possuo conhecimento e experiência!
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,6 +19,10 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="android" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </div><br/>
+
+### Atualmente trabalhando como bolsista na universidade de Santa Cruz do Sul.
+### Estou aprendendo Java e Android Studio. Em estudos independentes, atualmente aprendendo React.
+
 
 <!--
 **Gabriel-Gvr/Gabriel-Gvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
