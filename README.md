@@ -1,4 +1,4 @@
-### Oi, eu sou o Gabriel! Estudante de Ciência da Computação apaixonado por tecnologia e resolução de problemas. 👋
+### Eu sou o Gabriel! Estudante de Ciência da Computação apaixonado por tecnologia e resolução de problemas. 👋
 
 ![Gvr GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Gvr&show_icons=true&theme=radical)
 
@@ -20,8 +20,7 @@
   <img align="center" alt="android" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </div><br/>
 
-### Atualmente trabalhando como bolsista na universidade de Santa Cruz do Sul.
-### Estou aprendendo Java e Android Studio. Em estudos independentes, atualmente aprendendo React.
+### Atualmente trabalhando no provedor de internet Tubaron.
 
 
 <!--
